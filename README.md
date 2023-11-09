@@ -26,7 +26,7 @@ An API for managing e-commerce operations, including product and category listin
  
  1. To start the server
     1)npm install
-    2)node server.js
+    2)node index.js
 
 2. Backend is Deployed on 
 Base url - 
