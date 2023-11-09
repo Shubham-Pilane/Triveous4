@@ -28,8 +28,8 @@ An API for managing e-commerce operations, including product and category listin
     1)npm install
     2)node index.js
 
-2. Backend is Deployed on 
-Base url - 
+2. Backend is Deployed on  Cyclic
+Base url - https://tiny-pear-giraffe-boot.cyclic.app/
 
 3. API Endpoints
 
